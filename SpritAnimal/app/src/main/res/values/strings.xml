@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">SpritAnimal</string>
+
+    <string-array name="likelyArray">
+        <item>Nope!</item>
+        <item>Not likely...</item>
+        <item>..50/50..</item>
+        <item>Likely...</item>
+        <item>Yes sounds like me!</item>
+    </string-array>
+
+</resources>
+
